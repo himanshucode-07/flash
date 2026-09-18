@@ -1,0 +1,16 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "himanshu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.9.5"
+  }
+}
